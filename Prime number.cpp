@@ -3,6 +3,8 @@ using namespace std;
 int main()
 {
     int low, high, i, flag;
+    
+    cout << "prime number calc" << endl;
     cout << "Enter two numbers(intervals):\n ";
     cin >> low >> high;
     cout << "Prime numbers between " << low << " and " << high << " are: ";
